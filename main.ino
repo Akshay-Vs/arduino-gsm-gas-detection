@@ -7,7 +7,7 @@ const int THRESHOLD = 500;  // Define gas threshold for easier configuration
 const int GAS_SENSOR_PIN = A0;
 const int LCD_PINS[] = {2, 3, 4, 5, 6, 7};
 const int ALARM_PINS[] = {13, 9, 8, 12};  // {buzzer, redLED, greenLED, relay}
-const int GSM_PINS[] = {10, 11};  // GSM uses different pins now
+const int GSM_PINS[] = {10, 11};
 
 class GasSensor {
 private:
