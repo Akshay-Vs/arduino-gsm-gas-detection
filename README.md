@@ -1,5 +1,7 @@
 # Gas Leakage Detector System
 
+### [View Simulation](https://wokwi.com/projects/409472755511122945)
+
 ## Overview
 
 This project implements a **Gas Leakage Detector** using an Arduino, gas sensor, LCD display, alarm system (buzzer + LEDs), and GSM module to send notifications. The system continuously monitors gas levels and takes appropriate actions (trigger alarms and send SMS notifications) when gas levels exceed a predefined threshold.
